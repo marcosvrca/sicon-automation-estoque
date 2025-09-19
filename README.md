@@ -33,7 +33,7 @@ Pathlib / OS → manipulação de arquivos
 
 ## Clone este repositório:
 
-git clone https://github.com/seu-usuario/sicon-automation-estoque.git
+git clone https://github.com/marcosvrca/sicon-automation-estoque.git
 
 
 ## Instale as dependências:
