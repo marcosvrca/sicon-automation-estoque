@@ -1,0 +1,1 @@
+# Pacote sicon_automation

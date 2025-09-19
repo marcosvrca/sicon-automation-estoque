@@ -1,0 +1,6 @@
+
+*.log
+*.csv
+*.slk
+__pycache__/
+.env
